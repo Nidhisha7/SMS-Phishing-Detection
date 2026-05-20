@@ -1,4 +1,4 @@
-# Deep Learning Based Detection of SMS Phishing Attack
+# SMS Phishing Detection
 
 The model detects whether an SMS message is safe or a phishing attempt, and if phishing is detected, further classifies the attack type as phone-based, URL-based, or email-based. The system is built on DistilBERT and optimised for lightweight on-device mobile deployment.
 
